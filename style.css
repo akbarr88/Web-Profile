@@ -520,7 +520,7 @@ nav ul li a:hover{
 
 #footer ul {
     background-color: #131313;
-    
+    list-style: none;
 }
 
 #footer li {
